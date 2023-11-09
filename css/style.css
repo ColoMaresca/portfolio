@@ -8878,7 +8878,7 @@ h1, h2, h3, h4, h5,
     font-weight: 500; }
 
 .progress {
-  height: 10px;
+  height: 25px;
   -webkit-box-shadow: none;
   box-shadow: none;
   background: #1a1a1a;
