@@ -5087,9 +5087,8 @@ a.close.disabled {
 .carousel {
   position: relative; }
 
-.carousel.pointer-event {
-  -ms-touch-action: pan-y;
-  touch-action: pan-y; }
+
+
 
 .carousel-inner {
   position: relative;
